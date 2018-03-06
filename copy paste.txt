@@ -1,7 +1,0 @@
-/* 
-$negro: #1d1d1d;
-$blanco: #dfe3ec;
-$gris-claro: #838383;
-$gis-oscuro: #454545;
-$azul: #6f9ab7;
-*/
